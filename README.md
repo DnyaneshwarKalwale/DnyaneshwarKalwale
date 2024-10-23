@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DnyaneshwarKalwale
 - I’m interested in Web devlopment.
-- Frontend Devloper
+- MERN Devloper
 - I’m am fresher.
-- My skills- HTML, CSS, Java Script
+- My skills- HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Node js, MongoDB, Express js,
 - How to reach me prembkalwale@gmial.com
 
 <!---
